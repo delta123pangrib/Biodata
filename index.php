@@ -1,6 +1,7 @@
 <?php
     echo "Hello World";
-    echo " Ayok Kerjakan TA-mu"
+    echo " Ayok Kerjakan TA-mu";
+    echo '<p>   delta </p>';
 ?>
 <!DOCTYPE html>
 <html lang="en">
